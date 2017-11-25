@@ -21,7 +21,7 @@ Requires:
 - libhybris-libwayland-egl
 
 # Bluetooth
-- bluetooth-rfkill-event
+- bluetooth-rfkill-event-hciattach
 
 # Vibra
 - ngfd-plugin-droid-vibrator
